@@ -1,10 +1,3 @@
-class SpamTools:
-
- Developer = 'Messiah Hamilton'
-
- Version = '1.0.0'
-
-
 import requests
 
 print("""
